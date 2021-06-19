@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/84000898/122630609-f58f9e00-d0ff-11eb-91f2-43c0dcb23fb5.png)
+![image](https://user-images.githubusercontent.com/84000863/121391703-a45a0e80-c989-11eb-83bb-dbf8f8202686.png)
 
 # 렌터카
 
